@@ -1,0 +1,7 @@
+C:\Users\Astral\source\repos\FileText\FileText\bin\Debug\FileText.exe.config
+C:\Users\Astral\source\repos\FileText\FileText\bin\Debug\FileText.exe
+C:\Users\Astral\source\repos\FileText\FileText\bin\Debug\FileText.pdb
+C:\Users\Astral\source\repos\FileText\FileText\obj\Debug\FileText.csproj.AssemblyReference.cache
+C:\Users\Astral\source\repos\FileText\FileText\obj\Debug\FileText.csproj.CoreCompileInputs.cache
+C:\Users\Astral\source\repos\FileText\FileText\obj\Debug\FileText.exe
+C:\Users\Astral\source\repos\FileText\FileText\obj\Debug\FileText.pdb
